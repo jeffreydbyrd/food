@@ -7,7 +7,7 @@ Rice cooker meal I made in the office.
 __Food__:
 
 1. 2 cups rice (brown or white doesn't matter)
-2. pound of chicken (diced)
+2. 2 chicken breasts (diced)
 3. 1 potato (diced)
 4. 2 cups broccoli
 5. 6 large eggs
