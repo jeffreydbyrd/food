@@ -3,7 +3,7 @@ I read the book [Genius Foods](https://www.amazon.com/Genius-Foods-Smarter-Produ
 
 __Problem summary__. The agricultural revolution, while great for reproductive success, was terrible for long-term health. It only got worse with our modern western diet, which overfeeds us on carbs and starves us of vital nutrients, which increases dementia, heart disease, diabetes, etc. For the first time in decades our life expectancy is decreasing. 
 
-__Solution summary__.
+__Solution summary__. Live more like our earliest ancestors:
 
 1. Eat the foods listed below (protein & fat > carbs).
 2. Sleep well.
