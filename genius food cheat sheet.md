@@ -34,6 +34,7 @@ Stock up on this shit. Eat liberally with every meal. If losing weight, reduce o
 6. __Non-starchy root vegetables__: carrots, beets, radishes, turnips, parsnips
 7. __*Dark chocolate__: 80+% cocoa
 8. __Herbs, seasonings, condiments__: turmeric, cinnamon, salt, pepper, vinegar, nutritional yeast
+9. __Black Coffee__.
 
 ```
 * These are called out as "genius foods" from the book.
