@@ -10,7 +10,7 @@ __Solution summary__.
 3. Avoid alcohol & junk food.
 4. Lift weights.
 5. Go on hikes.
-6. Fast intermittently (12 to 8 is good).
+6. Fast intermittently.
 
 # Always Foods
 Stock up on this shit. Eat liberally with every meal. If losing weight, reduce oils & butter. Otherwise, in theory, you don't need to count calories because you'll feel full and energized while maintaining a caloric deficit. You shouldn't need to snack too much either.
