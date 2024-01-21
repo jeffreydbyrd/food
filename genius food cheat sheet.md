@@ -24,7 +24,7 @@ Stock up on this shit. Eat liberally with every meal. If losing weight, reduce o
    2. avocado oil, coconut oil
    3. organic butter
 3. __Low-sugar fruits__:
-   1. *Avocadoes, olives, bell peppers, tomatoes, grapefruit
+   1. *Avocados, olives, bell peppers, tomatoes, grapefruit
    2. *blueberries, blackberries, raspberries
 4. __Nuts & seeds__:
    1. *almonds, almond flour, almond butter
