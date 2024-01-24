@@ -18,7 +18,7 @@ Stock up on this shit. Eat liberally with every meal. If losing weight, reduce o
 1. __Veggies__:
    1. *dark leafy greens (romaine, kale, spinach, cabbage)
    2. *broccoli
-   3. onions, garlic
+   3. onions, garlic, mushrooms 
 2. __Oils & fats__:
    1. *extra-virgin olive oil
    2. avocado oil, coconut oil
