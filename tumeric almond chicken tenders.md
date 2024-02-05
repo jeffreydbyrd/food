@@ -11,7 +11,8 @@ Almond flour and turmeric replace the grains & breading for the crust.
 5. 1.5 tablespoons ground turmeric
 6. 1 teaspoon salt
 7. Dash of freshly ground black pepper
-8. _Optional_: Veggies
+8. Paper towels
+9. _Optional_: Veggies
 
 ## What to do
 1. In skillet, heat oil over medium-high.
