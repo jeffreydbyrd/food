@@ -1,5 +1,5 @@
 # Genius Food Cheat Sheet
-I read the book [Genius Foods](https://www.amazon.com/Genius-Foods-Smarter-Productive-Protecting/dp/0062562851) and found it fairly convincing. Some of its claims seem a bit premature given how new some of the research is (and given how historically shitty nutritional science has been). But overall it was good.
+I read the book [Genius Foods](https://www.amazon.com/Genius-Foods-Smarter-Productive-Protecting/dp/0062562851) and found it fairly convincing. They cite their work and reference reputable sources. Some of its claims seem a bit premature given how new some of the research is (and given how historically shitty nutritional science has been). But it gains credibility by acknowledging this.
 
 __Problem summary__. The agricultural revolution, while great for reproductive success, was terrible for long-term health. It only got worse with our modern western diet, which overfeeds us on carbs and starves us of vital nutrients, which increases dementia, heart disease, diabetes, etc. For the first time in decades our life expectancy is decreasing. 
 
