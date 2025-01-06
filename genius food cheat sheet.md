@@ -30,11 +30,14 @@ Stock up on this shit. Eat liberally with every meal. If losing weight, reduce o
    1. *almonds, almond flour, almond butter
    2. cashews, macadamias
    3. sunflower seeds, pumpkin seeds
-5. __Protein__: *eggs, *grass-fed beef, lamb, chicken, *salmon, sardines
-6. __Non-starchy root vegetables__: carrots, beets, radishes, turnips, parsnips
-7. __*Dark chocolate__: 80+% cocoa
-8. __Herbs, seasonings, condiments__: turmeric, cinnamon, salt, pepper, vinegar, nutritional yeast
-9. __Black Coffee__.
+5. __Protein__: 
+   1. *eggs
+   2. *grass-fed beef, chicken, lamb
+   3. *wild salmon, sardines
+1. __Non-starchy root vegetables__: carrots, beets, radishes, turnips, parsnips
+2. __*Dark chocolate__: 80+% cocoa
+3. __Herbs, seasonings, condiments__: turmeric, cinnamon, salt, pepper, vinegar, nutritional yeast
+4. __Black Coffee__.
 
 ```
 * These are called out as "genius foods" from the book.

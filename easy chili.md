@@ -5,7 +5,7 @@
 ## What you'll need
 
 1. 1 lb ground meat (usually beef or turkey)
-2. 1 jar spaghetti sauce
+2. 1 jar [spaghetti sauce](./spaghetti%20sauce.md)
 3. 2 cans of beans (red kidney + black beans)
 4. 1 can petite diced tomato (reduced sodium is preferred)
 

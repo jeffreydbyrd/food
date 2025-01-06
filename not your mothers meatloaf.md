@@ -3,24 +3,23 @@
 ## Serves ?
 
 ## What you'll need
-__Food__:
-
+### Food
 1. 2 lbs meat - any combo of turkey, lamb, beef, bison
 1. 1.25 cup breadcrumbs
 2. 1 cup shredded carrots
 3. 1 cup shredded zucchini
 4. 1/2 large yellow onion, shredded
 5. 1/2 cup diced mushrooms
-6.  Several (6-10) garlic cloves
-7.  2 eggs
-8.  1/2 cup milk
-9.  1 tablespoon Worcestershire sauce
+6. Several (6-10) garlic cloves
+7. 2 eggs
+8. 1/2 cup milk
+9. 1 tablespoon Worcestershire sauce
 10. 1/4 cup ketchup
 11. 1/4 cup sriracha (OPTIONAL)
 12. 1/2 teaspoon salt
 13. 1 teaspoon pepper
 
-__Tools__:
+### Tools
 1. Grater or food processor that can dice to coarse chunks
 2. Rubber gloves
 3. 2 bread loaf cooking tins

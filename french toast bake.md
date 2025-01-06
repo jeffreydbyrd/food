@@ -16,3 +16,5 @@
 
 ## How to serve
 Just eat it.
+
+Add blueberries and syrup.
